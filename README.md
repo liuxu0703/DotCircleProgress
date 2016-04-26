@@ -46,7 +46,8 @@ a circle constructed by dots. can be used as progress bar or percentage indicato
  **dotSpinTailCount**:
  spinning tail count. default is dotCount / 6 .
 
- #Licence
+#License:
+
  ```
  The MIT License (MIT)
 
